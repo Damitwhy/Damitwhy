@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with a world changing idea which no one will be happy with but it will be introduced at some point why not now and be at our control.
 - 💬 Ask me about what im looking for help with...
 - 📫 Email: damitwhy01@gmail.com
-- ☠️ Social-media: Twitter: Inequitas1 , Facebook: Inequtias inequitas , YouTube: https://www.youtube.com/@inequitas (My guitar and singing is bad so dont judge me!)
+- ☠️ Social-media: Twitter: Inequitas1 [https://x.com/Inequitas1] , Facebook: Inequtias inequitas [https://www.facebook.com/inequitas.inequitas/] , YouTube: https://www.youtube.com/@inequitas (My guitar and singing is bad so dont judge me!)
 - 😄 Pronouns: He / Him / They / Them
 - ⚡ Fun fact: The world is infact a sphere.
 
