@@ -4,10 +4,8 @@
 **Damitwhy/Damitwhy**
 
 - 🔭 I’m currently working on Code Institutes 16 week Full-Stack program.
-- 🌱 I’m currently learning Bootstrap, Github, Heroku, CSS, Flexbox, and every thing else, ask me see where im at.
-- 👯 I’m looking to collaborate on any thing that really matters, like with the world the way it is.
-- 🤔 I’m looking for help with a world changing idea which no one will be happy with but it will be introduced at some point why not now and be at our control.
-- 💬 Ask me about what im looking for help with...
+- 🌱 I’m currently learning Bootstrap, Github, Heroku, CSS, Flexbox, Agile, ask me see where im at.
+- 👯 I’m looking to collaborate on Hackathons.
 - 📫 Email: damitwhy01@gmail.com
 - ☠️ Social-media: Twitter: Inequitas1 [https://x.com/Inequitas1] , Facebook: Inequtias inequitas [https://www.facebook.com/inequitas.inequitas/] , YouTube: https://www.youtube.com/@inequitas (My guitar and singing is bad so dont judge me!)
 - 😄 Pronouns: He / Him / They / Them
