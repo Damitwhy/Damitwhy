@@ -4,7 +4,7 @@
 **Damitwhy/Damitwhy**
 
 - 🔭 I’m currently working on Code Institutes 16 week Full-Stack program.
-- 🌱 I’m currently learning Bootstrap, Github, Heroku, CSS, Flexbox, Agile, ask me see where im at.
+- 🌱 I’m currently learning Bootstrap, Github, Heroku, CSS, Flexbox, Agile, Javascript, API's ask me see where im at.
 - 👯 I’m looking to collaborate on Hackathons.
 - 📫 Email: damitwhy01@gmail.com
 - ☠️ Social-media: Twitter: Inequitas1 [https://x.com/Inequitas1] , Facebook: Inequtias inequitas [https://www.facebook.com/inequitas.inequitas/] , YouTube: https://www.youtube.com/@inequitas (My guitar and singing is bad so dont judge me!)
