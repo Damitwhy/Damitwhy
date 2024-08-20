@@ -15,13 +15,9 @@ The course has provided me with the basics in:
  - 📈 Agile methodology
  - 🎨 UX/UI design concepts
  - 🛠️ Git and GitHub
- - 🖥️ GitPod and VS Code IDE's  
- 
+ - 🖥️ GitPod and VS Code IDE's   
    
-Here are some stats that may be relevant.  
-
-
-
+### Here are some stats that may be relevant.  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Damitwhy)](https://github.com/ryo-ma/github-profile-trophy)
 
