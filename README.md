@@ -21,12 +21,10 @@ The course has provided me with the basics in:
    
 ### Here are some stats that may be relevant.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damitwhy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Damitwhy&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Damitwhy)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damitwhy)](https://github.com/anuraghazra/github-readme-stats)
 ## Working on
 - I've taken it upon myself to begin to learn:
   - 🟢 Node.js
@@ -38,6 +36,9 @@ The course has provided me with the basics in:
 
 ## Collaborative Works 
 ### Hackathons I've collaborated on:
+  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Damitwhy)  
+
 - **Going Bananaz** CI Hackathon (1) Start Date: 31/05/2024 lasting 3 days
   - Project:
     - Title: **Celebrating Diversity**
@@ -71,8 +72,8 @@ The course has provided me with the basics in:
     - Description: an art gallery web application where users can upload, view, like, comment on, update, and delete artwork. Built using Django, Python, JavaScript, HTML, and CSS, this project showcases features such as user authentication, image management, and an interactive gallery experience.      
       ![Hidden Brush Am I responsive Page](https://github.com/Damitwhy/Hidden-Brush/raw/main/static/images/am-i-responsive.png)
   - Deployments:
-    - [Hidden Artists GitHub Repo](https://github.com/Damitwhy/Hidden-Brush)  
-    - [Hidden Artists Deployment](https://hidden-brush-d91e531a264d.herokuapp.com/)
+    - [Hidden Brush GitHub Repo](https://github.com/Damitwhy/Hidden-Brush)  
+    - [Hidden Brush Deployment](https://hidden-brush-d91e531a264d.herokuapp.com/)
   - Collaborators:
     - [Kenneth Cox](https://github.com/Damitwhy) - Team Lead
     - [Henry Bennett](https://github.com/henrybennett94)  
@@ -80,4 +81,10 @@ The course has provided me with the basics in:
     - [Ahmed Mohamed](https://github.com/Aofficial0)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Damitwhy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inequitas-kenneth-cox/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inequitas.inequitas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Inequitas1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/24872838)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@inequitas)
+<span>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inequitas-kenneth-cox/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inequitas.inequitas) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Inequitas1) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/24872838) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@inequitas) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Damitwhy) 
+</span>
