@@ -1,6 +1,18 @@
 ## Hi there 👋
-I am Ken, 
-Heres some stats
+I am Ken, living in England, I've trained to be a full stack web-developer with Code Institute, having just recently graduated from Code Institutes 16 week Full Stack Program.
+The course has provided me with the basics in:
+ - HTML
+ - CSS
+ - Java Script
+ - Python
+ - Django
+ - Agile methodology
+ - UX/UI design concepts
+ - Git and GitHub
+ - GitPod and VS Code IDE's
+ - BootStrap 5
+   
+Here are some stats that may be relevent.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damitwhy)](https://github.com/anuraghazra/github-readme-stats)
