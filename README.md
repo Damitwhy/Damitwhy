@@ -1,7 +1,9 @@
 ## Hi there 👋
 I am Ken, 
 Heres some stats
-![!Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damitwhy)](https://github.com/Damitwhy/github-readme-stats)
+
+
+![!Ken's GitHub stats (https://github-readme-stats.vercel.app/api?username=Damitwhy)](https://github.com/Damitwhy/github-readme-stats)
 
 
 **Damitwhy/Damitwhy**
