@@ -3,7 +3,7 @@ I am Ken,
 Heres some stats
 
 
-![!Ken's GitHub stats (https://github-readme-stats.vercel.app/api?username=Damitwhy)](https://github.com/Damitwhy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damitwhy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Damitwhy/Damitwhy**
