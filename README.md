@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Damitwhy)](https://github.com/ryo-ma/github-profile-trophy)
- - banner here
-## Hi there 👋, Thank You for your visit today...
+![Banner](assets/images/Banner.png)
+## Hi there 👋, ...
 I am Ken, living in England, I've trained to be a full stack web-developer/software-developer with Code Institute,  
 having just recently graduated from Code Institutes 16 week Full Stack Program.  
 The course has provided me with the basics in:
