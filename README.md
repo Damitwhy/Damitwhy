@@ -20,3 +20,4 @@ I will pursue this as best I can, perhaps becoming good enough to build sites fo
 I’ve seen lots of Gmail business addresses that don’t have a website devoted to their business/charitable organisation. I find it strange - why don’t they have websites of their own? Maybe I should drop them an email to offer a Business Site. 🙊 I had thought about buying up domain names before offering service, but that could be really costly 🙉 if I got no interest. However, I recently learned that there was a study done that asked a question such as, “If you were thinking about buying a new car or upgrading, what car would you buy?” It was found that those people asked were twice as likely to actually buy a new car within the next year than those not asked the same question. So maybe popping the question might be enough to get business from potential customers.
 
 Well wish me luck as I wish you the very best in your endeavours. 🤟
+
