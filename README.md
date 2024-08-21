@@ -1,23 +1,23 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Damitwhy)](https://github.com/ryo-ma/github-profile-trophy)
 ![Banner](assets/images/Banner3.png)
-## Hi there 👋, ...
-I am Ken, living in England, I've trained to be a full stack web-developer/software-developer with Code Institute,  
-having just recently graduated from Code Institutes 16 week Full Stack Program.  
+## Hi there 👋![Smile](assets/images/beaming-face-with-smiling-eyes-svgrepo-com.svg), ...
+I am Ken, living in England, I've trained to be a Full Stack Software-developer with [![Code Institute](assets/images/logo_sticky.svg)](https://codeinstitute.net/),  
+having just recently graduated from Code Institute's 16 week Full Stack Program.  
 The course has provided me with the basics in:
- - 🌐 HTML
- - 🎨 CSS
+ - ![HTML](assets/images/html-5-svgrepo-com.svg) HTML
+ - ![CSS](assets/images/css-3-svgrepo-com.svg) CSS
    - 🟦 Grid
    - 📐 Flex-box
-   - 🅱️ BootStrap 5
- - 📜 Java Script
- - 🐍 Python
+   - ![Bootstrap5](assets/images/bootstrap-svgrepo-com.svg) BootStrap 5
+ - ![Java Script](assets/images/java-script-svgrepo-com.svg) Java Script
+ - ![Python](assets/images/python-svgrepo-com.svg) Python
    - 🌐 Api's
    - 📄 Json
- - 🌐 Django framework
+ - ![Django](assets/images/django-svgrepo-com.svg) Django framework
  - 📈 Agile methodology
  - 🎨 UX/UI design concepts
- - 🛠️ Git and GitHub
- - 🖥️ GitPod and VS Code IDE's   
+ - ![GitHub](assets/images/github-svgrepo-com.svg) Git and GitHub
+ - ![GitPod](assets/images/gitpod-svgrepo-com.svg) GitPod and ![VSCode](assets/images/vscode-insiders-svgrepo-com.svg) VS Code IDE's   
    
 ### Here are some stats that may be relevant.  
 
