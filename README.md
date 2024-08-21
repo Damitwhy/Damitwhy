@@ -1,9 +1,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Damitwhy)](https://github.com/ryo-ma/github-profile-trophy)
 ![Banner](assets/images/Banner3.png)
-## Hi there 👋![Smile](assets/images/beaming-face-with-smiling-eyes-svgrepo-com.svg), ...
+
+## Hi there 👋![Smile](assets/images/beaming-face-with-smiling-eyes-svgrepo-com.svg)
+
 I am Ken, living in England, I've trained to be a Full Stack Software-developer with [![Code Institute](assets/images/logo_sticky.svg)](https://codeinstitute.net/),  
 having just recently graduated from Code Institute's 16 week Full Stack Program.  
-The course has provided me with the basics in:
+
+## Introduction
+I am a passionate Full Stack Developer with a strong foundation in web development and a keen interest in creating interactive and user-friendly applications. I am eager to contribute to innovative projects and collaborate with talented teams.
+
+## Skills
+The Code Institute's course has provided me with the basics in:
  - ![HTML](assets/images/html-5-svgrepo-com.svg) HTML
  - ![CSS](assets/images/css-3-svgrepo-com.svg) CSS
    - 🟦 Grid
@@ -18,24 +25,8 @@ The course has provided me with the basics in:
  - 🎨 UX/UI design concepts
  - ![GitHub](assets/images/github-svgrepo-com.svg) Git and GitHub
  - ![GitPod](assets/images/gitpod-svgrepo-com.svg) GitPod and ![VSCode](assets/images/vscode-insiders-svgrepo-com.svg) VS Code IDE's   
-   
-### Here are some stats that may be relevant.  
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Damitwhy&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damitwhy)](https://github.com/anuraghazra/github-readme-stats)
-## Working on
-- I've taken it upon myself to begin to learn:
-  - 🟢 Node.js
-  - ⚛️ React.js
-
-- 👯 I’m looking to collaborate on Hackathons.
-
-- 📫 Email: damitwhy01@gmail.com  
-
-## Collaborative Works 
-### Hackathons I've collaborated on:
+## Projects
   
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Damitwhy)  
 
@@ -79,10 +70,30 @@ The course has provided me with the basics in:
     - [Henry Bennett](https://github.com/henrybennett94)  
     - [Ashwini Tembhurne](https://github.com/AshwiniTembhurne)  
     - [Ahmed Mohamed](https://github.com/Aofficial0)
+## Certifications
+- Full Stack Software Development - Code Institute
+
+## Education
+- Full Stack Software Development, Code Institute, 2024
+
+## Experience
+- Team Lead, Hidden Artists CI Hackathon, 2024
+- Team Member, The Epic Gambling Mavericks CI Hackathon, 2024
+- Team Lead, Going Bananaz CI Hackathon, 2024
+
+## Testimonials
+> "Ken is a highly skilled developer with a keen eye for detail. His contributions to our projects have been invaluable." - [Ashwini Tembhurne]
+
+## Contact Information
+- 📫 Email: damitwhy01@gmail.com
+
+## More on Collaborative Works 
+### Hackathons I've collaborated on:
 
 
 
-      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inequitas-kenneth-cox/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inequitas.inequitas) 
+
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inequitas-kenneth-cox/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inequitas.inequitas) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Inequitas1) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/24872838) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@inequitas) 
