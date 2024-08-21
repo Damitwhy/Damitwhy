@@ -9,7 +9,7 @@ The course has provided me with the basics in:
    - 🟦 Grid
    - 📐 Flex-box
    - ![Bootstrap5](assets/images/bootstrap-svgrepo-com.svg) BootStrap 5
- - ![Java Script](assets/images/java-script-svgrepo-com.svg) Java Script
+ - ![Java Script](assets/images/java-script-svgrepo-com1.svg) Java Script
  - ![Python](assets/images/python-svgrepo-com.svg) Python
    - 🌐 Api's
    - 📄 Json
