@@ -92,8 +92,6 @@ The Code Institute's course has provided me with the basics in:
 ## Contact Information
 - 📫 Email: damitwhy01@gmail.com
 
-## More on Collaborative Works 
-### Hackathons I've collaborated on:
 
 
 
