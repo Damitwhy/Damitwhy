@@ -70,6 +70,11 @@ The Code Institute's course has provided me with the basics in:
     - [Henry Bennett](https://github.com/henrybennett94)  
     - [Ashwini Tembhurne](https://github.com/AshwiniTembhurne)  
     - [Ahmed Mohamed](https://github.com/Aofficial0)
+## Working on
+- Learning
+  - Htmx
+  - React.js
+  - Node.js
 ## Certifications
 - Full Stack Software Development - Code Institute
 
