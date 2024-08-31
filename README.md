@@ -7,7 +7,7 @@ I am Ken, living in England, I've trained to be a Full Stack Software-developer 
 having just recently graduated from Code Institute's 16 week Full Stack Program.  
 
 ## Introduction
-I am a passionate Full Stack Developer with a strong foundation in web development and a keen interest in creating interactive and user-friendly applications. I am eager to contribute to innovative projects and collaborate with talented teams.
+I am a passionate Junior Full Stack Developer with a strong foundation in web development and a keen interest in creating interactive and user-friendly applications. I am eager to contribute to innovative projects and collaborate with talented teams.
 
 ## Skills
 The Code Institute's course has provided me with the basics in:
